@@ -11,5 +11,4 @@ while n < 10:
             l.append(i)
     n += 1
 print(l)
-for i in range (1, 100):
-    print(i)
+
